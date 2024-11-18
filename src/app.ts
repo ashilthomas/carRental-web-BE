@@ -8,7 +8,7 @@ import bookingRoutes from './routes/bookingRoutes';
 import cookieParser from "cookie-parser"
 
 dotenv.config();
-/// <reference types="node" />
+
 
 const app: Application = express();
 
