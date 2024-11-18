@@ -34,7 +34,7 @@
     // "paths": {},                                      /* Specify a set of entries that re-map imports to additional lookup locations. */
     // "rootDirs": [],                                   /* Allow multiple folders to be treated as one when resolving modules. */
     "typeRoots": ["./node_modules/@types"],
-    // "types": ["node", "express", "bcrypt", "cookie-parser", "cors", "jsonwebtoken", "multer"],
+    "types": ["node", "express", "cors", "cookie-parser", "jsonwebtoken", "multer", "bcrypt"],
     // "types": [],  // Add this to specify where TypeScript should look for type definitions
    /* Specify type package names to be included without being referenced in a source file. */
     // "allowUmdGlobalAccess": true,                     /* Allow accessing UMD globals from modules. */
