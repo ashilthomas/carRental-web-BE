@@ -7,9 +7,6 @@ import vechicleRoutes from './routes/vechicleRoute';
 import bookingRoutes from './routes/bookingRoutes';
 import cookieParser from "cookie-parser"
 
-
-
-
 dotenv.config();
 
 const app: Application = express();
